@@ -1,1 +1,1 @@
-## Welcome to Zixao Wang & Yawen Ding Pages
+## Welcome to Yawen Ding & Zixao Wang Pages
