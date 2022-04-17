@@ -4,6 +4,6 @@
 
 # Zixiao Wang
 
-I am a PhD student at Peking University, Sweden. My research is the strong correlated system and ultrafast lasers. 
+I am a PhD student at Peking University. My research is the strong correlated system and ultrafast lasers. 
 
 Email: zixiaowang@pku.edu.cn
