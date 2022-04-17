@@ -2,6 +2,7 @@
 
 # Yawen Ding
 <img src="figure/ywding/ywding1.jpeg" width="60%">
+
 I am a PhD student at Peking University. My research area is mainly about agricultural economics and development economics.
 
 Currently, my research aims to explore rural women's bargaining power within households and its impacts on widespread household outcomes, especially intergenerational effects.
