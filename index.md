@@ -8,7 +8,7 @@ I am a PhD student at Peking University. My research is the strong correlated sy
 
 Email: [zixiaowang@pku.edu.cn](mailto:zixiaowang@pku.edu.cn)
 
-CV:
+CV: [zixiaowang.pdf](CV/zixiaowang.pdf)
 
 ## Working Papers
 
