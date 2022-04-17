@@ -1,4 +1,4 @@
-## Welcome to Yawen Ding & Zixao Wang Pages
+## Welcome to Yawen Ding & Zixiao Wang Pages
 
 # Yawen Ding
 <img src="figure/ywding/ywding1.jpeg" width="60%">
