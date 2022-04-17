@@ -2,6 +2,7 @@
 
 # Yawen Ding
 <img src="figure/ywding/ywding1.jpeg" width="60%">
+
 I am a PhD student at Peking University. My research area is mainly about agricultural economics and development economics.
 
 Currently, my research aims to explore rural women's bargaining power within households and its impacts on widespread household outcomes, especially intergenerational effects.
@@ -40,6 +41,7 @@ China’s poverty alleviation and intra-household bargaining power.
 
 # Zixiao Wang
 <img src="figure/zxwang/zxwang1.jpeg" width="60%">
+
 I am a PhD student at Peking University. My research is strongly correlated electrons systems, like superconductivity and charge density wave instability.
 
 I use the ultrashort laser pulses to detect the decaying dynamic of quantum materials after excitation. Ultrashort laser pulses can also trigger a coherent oscillation of collective mode, which is now widely used for characterizing phase transitions.
