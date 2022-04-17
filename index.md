@@ -12,7 +12,7 @@ Email: [zixiaowang@pku.edu.cn](mailto:zixiaowang@pku.edu.cn)
 
 CV: [zixiaowang.pdf](CV/zixiaowang.pdf)
 
-## Working Papers
+## Publications
 
 [Link to My Google Scholor](https://scholar.google.com.sg/citations?hl=zh-CN&user=tFtU7NYAAAAJ)
 
